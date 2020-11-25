@@ -1,0 +1,138 @@
+body{
+     background-color:#f3f1ff;
+     font-family: 'Poppins', sans-serif;
+}
+.nav{
+    height: 50px;
+    width: 50px;
+}
+.navbar-brand{
+    padding-left: 19%;
+}
+.navbar-nav{
+    padding-right: 25%;
+}
+.nav-pic{
+    height: 50px;
+    width: 50px;
+}
+.box{
+    height: 600px;
+    width: 870px;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    background-color:white;
+    border-radius: 15px;
+}
+h5{
+    margin-left: 30px;
+    margin-top: 20px;
+    color:rgb(42, 42, 255);
+    font-weight: bold;
+}
+.size-img{
+    height: 70px;
+    width: 70px;
+}
+.profile{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.profile p{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.blog img{
+    height: 98px;
+    width: 145px;
+    margin-bottom: 20px;
+    float: left;
+    margin-right: 10px;
+}
+.blog{
+    padding-left: 50px;   
+}
+.blog p{
+    font-weight: bold;
+    margin-bottom: 5px; 
+    font-size: 18px;
+}
+h6{
+    color: gray;  
+}
+span{
+    color: rgb(59, 59, 192);
+}
+.box-2{
+    height:370px;
+    width: 870px;
+    position: absolute;
+    top:770px ;
+    left: 0px;
+    right: 0px;
+    margin:auto ;
+    background-color:white;
+    border-radius: 15px;
+
+}
+.card-deck{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+.card{
+    border-radius: 15px;  
+     border-color: rgb(245, 245, 245);
+     box-shadow: 3px 3px 10px rgb(224, 221, 221);
+}
+.card p{
+    font-size: 18px;
+    font-weight:bold ;
+    margin-left: -10px;
+}
+.star-2 img{
+    width: 13px;
+    height: 13px;
+}
+.star-2{
+    margin-left:10px;
+    
+}
+.card-img{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.card-body p{
+    line-height: .5;
+    
+}
+.card-body small{
+    color: rgb(233, 96, 96);
+    margin-left: -10px;
+    line-height: .5;
+}
+
+.watch img{
+    height: 25px;
+    width: 25px;
+    margin-bottom: px;
+}
+.watch{
+   margin-left: 30px;
+   background-color: rgb(245, 214, 214);
+   border-radius: 15px;
+   padding: 5px;
+  
+}
+.watch small{
+    color: rgb(223, 93, 93);
+}
+.underline .watch{
+    margin-bottom: 15px;
+}
+
